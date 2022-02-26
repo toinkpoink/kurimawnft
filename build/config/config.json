@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBDc3d26Fb6E0EA480EfaBa4B37e73aA7e31B482e",
+  "SCAN_LINK": "https://etherscan.io/address/0xbdc3d26fb6e0ea480efaba4b37e73aa7e31b482e",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Kurimaw NFT",
+  "SYMBOL": "MAW",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/kurimaw_deployer",
+  "SHOW_BACKGROUND": true
+}
